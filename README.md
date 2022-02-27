@@ -6,3 +6,5 @@
 
 no_class_21 nearly done - David Howe
 simple blackjack game with tkinter gui and card graphics - not finished - nearly done. July 2 - 2018 - Kingston Canada
+
+Just saw the date on this 2018 - time to finish - 2022 yikes.
